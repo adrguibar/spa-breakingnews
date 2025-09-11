@@ -67,6 +67,7 @@ export const Button = styled.button`
   font-weight: 500;
   letter-spacing: 0.1rem;
   text-transform: uppercase;
+  margin-right: 2rem;
 
   :hover {
     background-color: #0a86af;
